@@ -1,7 +1,5 @@
 # Churn-Prediction
 
-# The Churn prediction for telecom data
-
 If it's not possible to open the notebook in GitHub, please open this [link](https://nbviewer.jupyter.org/github/katerinaov/Churn-Prediction/blob/master/Liberty%20Global-Case%20Syudy.ipynb)
 
 The notebook contains:
